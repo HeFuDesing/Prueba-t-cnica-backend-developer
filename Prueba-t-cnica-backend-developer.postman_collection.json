@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "a629f025-4d1f-40cf-97a0-6d6eb0c1ba3f",
+		"name": "Prueba-t-cnica-backend-developer",
+		"description": "Prueba-t-cnica-backend-developer",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Singin",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Login",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
